@@ -33,20 +33,20 @@ Dependencies:
 </ol>
 <li> Get API key from Riot 
 <ol>
-<li> Login to https://developer.riotgames.com/ 
+<li> Login to <b>https://developer.riotgames.com/ </b>
 <li> copy the key to api_key.txt generated in the previous step
 </ol>
 <li> Record
 <ol>
 <li> start a game
-<li> type : python Recorder.py [summoner name] (Type the actual summoner name without the [])
+<li> type : python Recorder.py <b>[summoner name]</b> (Type the actual summoner name without the [])
 <li> a replay.bat will be generated in the replay directory under the folder named with the gameID
 </ol>
 <li> Replay
 <ol>
 <li> type : python ReplayServer.py
 <li> copy the replay.bat you want
-<li> go to League of Legends director: ...\Riot Games\League of Legends\RADS\solutions\lol_game_client_sln\releases\[some numbers]\deploy
+<li> go to League of Legends director: ...\Riot Games\League of Legends\RADS\solutions\lol_game_client_sln\releases\<b>[some numbers]</b>\deploy
 <li> paste the replay.bat here
 <li> double click the replay.bat
 <li> Enjoy!
