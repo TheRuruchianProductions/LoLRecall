@@ -46,7 +46,7 @@ Dependencies:
 <ol>
 <li> type : python ReplayServer.py
 <li> copy the replay.bat you want
-<li> go to League of Legends director: ...\Riot Games\League of Legends\RADS\solutions\lol_game_client_sln\releases\<some numbers>\deploy
+<li> go to League of Legends director: ...\Riot Games\League of Legends\RADS\solutions\lol_game_client_sln\releases\[some numbers]\deploy
 <li> paste the replay.bat here
 <li> double click the replay.bat
 <li> Enjoy!
