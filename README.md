@@ -39,7 +39,7 @@ Dependencies:
 <li> Record
 <ol>
 <li> start a game
-<li> type : python Recorder.py <summoner name> (Type the actual summoner name without the <>)
+<li> type : python Recorder.py [summoner name] (Type the actual summoner name without the [])
 <li> a replay.bat will be generated in the replay directory under the folder named with the gameID
 </ol>
 <li> Replay
