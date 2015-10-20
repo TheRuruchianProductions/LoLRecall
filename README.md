@@ -1,5 +1,8 @@
 # LoLRecall
 
+<h3> This is a python script the record spectator information from LoL. </h3>
+<h4> This is written under GPLv3. Spread the joy. </h4>
+
 Requirements :
 Python 3.4
 
@@ -38,7 +41,7 @@ Dependencies:
 <li> start a game
 <li> type : python Recorder.py <summoner name> (Type the actual summoner name without the <>)
 <li> a replay.bat will be generated in the replay directory under the folder named with the gameID
-<ol>
+</ol>
 <li> Replay
 <ol>
 <li> type : python ReplayServer.py
@@ -46,6 +49,13 @@ Dependencies:
 <li> go to League of Legends director: ...\Riot Games\League of Legends\RADS\solutions\lol_game_client_sln\releases\<some numbers>\deploy
 <li> paste the replay.bat here
 <li> double click the replay.bat
-<li> 
-<ol>
+<li> Enjoy!
 </ol>
+</ol>
+<h5>
+Pending development:
+<ul>
+<li> Summoner tracker
+<li> Easier replays
+</ul>
+</h5>
