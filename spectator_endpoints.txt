@@ -1,0 +1,13 @@
+BR 		spectator.br.lol.riotgames.com		80
+EUNE  		spectator.eu.lol.riotgames.com		8080
+EUW 		spectator.euw1.lol.riotgames.com	80
+KR 		spectator.kr.lol.riotgames.com		80
+LAN		spectator.la1.lol.riotgames.com		80
+LAS 		spectator.la2.lol.riotgames.com		80
+NA 		spectator.na.lol.riotgames.com		80
+OCE 		spectator.oc1.lol.riotgames.com		80
+TR 		spectator.tr.lol.riotgames.com		80
+RU		spectator.ru.lol.riotgames.com		80
+PBE		spectator.pbe1.lol.riotgames.com	8080
+op.gg		20000.f.spectator.op.gg			80
+replay.gg	replay.gg				8080

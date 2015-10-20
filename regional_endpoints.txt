@@ -1,0 +1,12 @@
+BR 		BR1	br.api.pvp.net
+EUNE  		EUN1	eune.api.pvp.net
+EUW 		EUW1	euw.api.pvp.net
+KR 		KR	kr.api.pvp.net
+LAN		LA1	lan.api.pvp.net	
+LAS 		LA2	las.api.pvp.net
+NA 		NA1	na.api.pvp.net
+OCE 		OC1	oce.api.pvp.net	
+TR 		TR1	tr.api.pvp.net
+RU		RU	ru.api.pvp.net
+PBE		PBE1	pbe.api.pvp.net
+Global 		None 	global.api.pvp.net
