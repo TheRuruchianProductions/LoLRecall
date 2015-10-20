@@ -1,6 +1,6 @@
-# LoLRecall
+# SummonerRecall
 
-<h3> This is a python script the record spectator information from LoL. </h3>
+<h3> This is a python script to record spectator information from LoL. </h3>
 <h4> This is written under GPLv3. Spread the joy. </h4>
 
 Requirements :
